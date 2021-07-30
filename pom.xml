@@ -52,7 +52,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/MikeTecApp/sfg-pet-clinic.git</developerConnection>
-        <tag>sfg-pet-clinic-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
